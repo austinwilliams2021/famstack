@@ -11,4 +11,4 @@ dist/index.html                   0.46 kB │ gzip:  0.30 kB
 dist/assets/react-35ef61ed.svg    4.13 kB │ gzip:  2.14 kB
 dist/assets/index-d526a0c5.css    1.42 kB │ gzip:  0.74 kB
 dist/assets/index-d6eaa2a1.js   143.15 kB │ gzip: 45.99 kB
-✓ built in 348ms
+✓ built in 357ms
